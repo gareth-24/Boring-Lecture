@@ -1,0 +1,15 @@
+h2.intro {
+  font-style:bold;
+  font-family: Arial;
+}
+p.intro {
+  width: 50%;
+  font-style:italic;
+}
+img.intro {
+  width: 50%;
+}
+#line3 {
+  color: red;
+  font-style:bold;
+}
