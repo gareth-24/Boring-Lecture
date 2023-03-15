@@ -1,15 +1,11 @@
-h2.intro {
-  font-style:bold;
-  font-family: Arial;
-}
-p.intro {
+
+.intro {
   width: 50%;
   font-style:italic;
+  font-size: 75%;
 }
-img.intro {
-  width: 50%;
-}
-#line3 {
-  color: red;
-  font-style:bold;
+.info {
+  color:blue;
+  font-style: bold;
+  font-size: 16px
 }
